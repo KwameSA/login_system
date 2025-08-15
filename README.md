@@ -1,6 +1,6 @@
 # LushLyrics Fork – User Authentication Implementation
 
-This repository contains my fork of the [LushLyrics](https://github.com/original-repo](https://github.com/mohammedwed/Lushlyrics-insecure) project with a focus on implementing secure **user authentication and password management** workflows.
+This repository contains my fork of the [LushLyrics](https://github.com/original-repo](https://github.com/mohammedwed/Lushlyrics-insecure)) project with a focus on implementing secure **user authentication and password management** workflows.
 
 ---
 
