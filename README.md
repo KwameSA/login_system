@@ -44,9 +44,6 @@ This ensures that only registered users can access the LushLyrics content, provi
 
 ---
 
-
----
-
 ## Technologies Used
 
 - **Backend**: Python 3.11, Django 3.0.7  
